@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/AssaultAmerika/WorldAlteringEditor/src/TSMapEditor/Content/Shaders/ColorDraw.fx</SourceFile>
+  <SourceTime>2024-02-25T22:08:22.9051654+01:00</SourceTime>
+  <DestFile>C:/AssaultAmerika/WorldAlteringEditor/src/TSMapEditor/Content/bin/Windows/Content/Shaders/ColorDraw.xnb</DestFile>
+  <DestTime>2024-10-04T15:10:19.6066933+02:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2022-07-26T13:44:56+02:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T13:44:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

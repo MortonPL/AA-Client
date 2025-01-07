@@ -1,0 +1,28 @@
+/Client
+/debug
+/Map Editors/Final Alert/finalalert2log.txt
+/Map Editors/World Altering Editor/MapEditorSettings.ini
+/Saved Games/
+/Screenshots/
+
+/BINKW32.DLL
+/Blowfish.dll
+/gamemd.exe
+/langmd.mix
+/language.mix
+/multimd.mix
+/ra2.mix
+/ra2md.mix
+/expandmd*.mix
+/ecache*.mix
+
+*.log
+/d3d9.dll
+/ddraw.dll
+/ddraw.ini
+/ddraw.log
+/KeyboardMD.ini
+/RA2MD.ini
+/ReShade.ini
+/spawn.ini
+/spawnmap.ini

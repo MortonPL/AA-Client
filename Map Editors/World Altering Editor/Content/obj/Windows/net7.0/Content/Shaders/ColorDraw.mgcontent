@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/prog/Csharp/TSMapEditor/src/TSMapEditor/Content/Shaders/ColorDraw.fx</SourceFile>
+  <SourceTime>2023-09-01T17:47:09.390898+02:00</SourceTime>
+  <DestFile>C:/prog/Csharp/TSMapEditor/src/TSMapEditor/Content/bin/Windows/Content/Shaders/ColorDraw.xnb</DestFile>
+  <DestTime>2023-12-23T18:27:39.0269339+01:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2022-07-26T13:44:56+02:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T13:44:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Debug</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

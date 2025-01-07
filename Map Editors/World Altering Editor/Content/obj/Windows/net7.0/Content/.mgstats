@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/prog/Csharp/TSMapEditor/src/TSMapEditor/Content/Shaders/ColorDraw.fx","C:/prog/Csharp/TSMapEditor/src/TSMapEditor/Content/bin/Windows/Content/Shaders/ColorDraw.xnb","EffectProcessor","CompiledEffectContent",1775,18678,0,6229028
+"C:/prog/Csharp/TSMapEditor/src/TSMapEditor/Content/Shaders/DepthApply.fx","C:/prog/Csharp/TSMapEditor/src/TSMapEditor/Content/bin/Windows/Content/Shaders/DepthApply.xnb","EffectProcessor","CompiledEffectContent",1766,18842,0,5541619

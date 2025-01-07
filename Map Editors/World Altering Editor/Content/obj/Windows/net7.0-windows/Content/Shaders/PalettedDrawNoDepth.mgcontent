@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/prog/Csharp/WorldAlteringEditor/src/TSMapEditor/Content/Shaders/PalettedDrawNoDepth.fx</SourceFile>
+  <SourceTime>2024-02-19T19:06:31.5435098+01:00</SourceTime>
+  <DestFile>C:/prog/Csharp/WorldAlteringEditor/src/TSMapEditor/Content/bin/Windows/Content/Shaders/PalettedDrawNoDepth.xnb</DestFile>
+  <DestTime>2024-02-19T19:38:55.3933337+01:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2022-07-26T13:44:56+02:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T13:44:56+02:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Debug</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

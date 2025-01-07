@@ -1,0 +1,1 @@
+This project uses a modifed version of FA2sp provided and maintained by E1 Elite: https://ppmforums.com/topic-47342/final-alert-2-yr-v102-patches/.
